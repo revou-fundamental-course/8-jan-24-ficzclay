@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#persegi-form {
+	margin-bottom: 20px;
+}
+
+.result {
+	border: 1px solid #ccc;
+	padding: 20px;
+	background-color: #f2f2f2;
+}
